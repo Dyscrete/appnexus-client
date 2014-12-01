@@ -1,9 +1,9 @@
 {
-    "name": "x6media/appnexus-client",
+    "name": "dyscrete/appnexus-client",
     "type": "library",
     "description": "Client for the AppNexus API",
     "keywords": ["appnexus", "client"],
-    "homepage": "https://github.com/x6media/appnexus-client",
+    "homepage": "https://github.com/dyscrete/appnexus-client",
     "authors": [
         {
             "name": "Stefan Warman",
@@ -15,7 +15,7 @@
         }
     ],
     "support": {
-        "source": "https://github.com/x6media/appnexus-client"
+        "source": "https://github.com/dyscrete/appnexus-client"
     },
     "require": {
         "php": ">=5.4.0",
