@@ -1,17 +1,21 @@
 {
-    "name": "warmans/appnexus-client",
+    "name": "x6media/appnexus-client",
     "type": "library",
     "description": "Client for the AppNexus API",
     "keywords": ["appnexus", "client"],
-    "homepage": "https://github.com/warmans/appnexus-client",
+    "homepage": "https://github.com/x6media/appnexus-client",
     "authors": [
         {
             "name": "Stefan Warman",
             "email": "stefan.warman@gmail.com"
+        },
+        {
+            "name": "Sam Hunter",
+            "email": "sam@email.ly"
         }
     ],
     "support": {
-        "source": "https://github.com/warmans/appnexus-client"
+        "source": "https://github.com/x6media/appnexus-client"
     },
     "require": {
         "php": ">=5.4.0",
